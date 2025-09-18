@@ -1,5 +1,5 @@
 """
-kpop_shard_plot_2.py
+fnb_shard_plot_2.py
 
 F&B Reddit brand intelligence dashboard:
 - Core: Load pivoted daily/weekly brand mention counts, plot Raw or SoV, top brands, top posts/subreddits
